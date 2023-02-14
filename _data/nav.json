@@ -1,0 +1,11 @@
+{
+    "items": [{
+            "name": "Rédacteurs",
+            "link": "/redacteurs/"
+        },
+        {
+            "name": "À propos",
+            "link": "/apropos/"
+        }
+    ]
+}
