@@ -1,9 +1,9 @@
 # Site settings
-name: name
-email: "myaddress@test.ch"
+name: Affluents
+email: "redaction@affluents.ch"
 url: url
-description: "A blog and a portfolio"
-author: "Luis"
+description: "Un blog d'analyses d'actualité"
+author: "Luis de Oliveira"
 title: "Affluents"
 permalink: pretty
 baseurl: ""
