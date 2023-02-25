@@ -9,16 +9,12 @@
                         <div class="media-content">
                             <div class="content">
                                 <a href="{{ post.url | relative_url }}">
-                                    <p class="title is-2">
-                                        {{post.title}}
-                                        <span class="tag is-white is-pulled-right">
-                                            {{ post.date | date: '%d.%m.%Y'}}
-                                        </span>
-                                        <span class="tag is-white is-pulled-right">
-                                            {{ post.author }}
-                                        </span>
+                                    <h1>{{ post.title }}</h1>
+                                    <p class="subtitle">{{ post.description }}</p>
+                                    <p class="right">
+                                        {{ post.author }}
+                                        {{ post.date | date: '%d.%m.%Y'}}
                                     </p>
-                                    <p class="subtitle"><small>{{post.excerpt | remove: '<p>' | remove: '</p>'}}</small></p>
                                 </a>
                             </div>
                         </div>
