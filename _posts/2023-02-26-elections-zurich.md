@@ -5,6 +5,7 @@ date: 2023-02-26
 author: "Luis de Oliveira"
 description: "Les élections cantonales zurichoises permettent-elles vraiment de prédire l’issue des élections fédérales ?"
 ---
+
 Lors de la couverture médiatique de ces élections, il était constamment rappelé que les élections cantonales à Zurich étaient un avant-goût des élections fédérales qui se dérouleront le 22 octobre prochain. Près de 18% de la population suisse vit dans le canton de Zurich et 36 des 200 Conseillers nationaux seront Zurichois en 2023, le canton a donc un réel impact aux Chambres fédérales, en plus de son poids économique et culturel. Les tendances politiques qui se manifestent à Zurich vont-elles donc réellement se matérialiser dans quelques mois à l’échelle nationale ? Quels enseignements faut-il en tirer ?
 
 ## Retour sur les résultats des élections du 12 février 2023
