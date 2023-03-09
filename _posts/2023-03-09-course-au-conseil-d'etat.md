@@ -11,12 +11,28 @@ description: "Parmi les 23 candidats, qui sera élu au gouvernement genevois ?"
 ## Les sortants et les candidatures de témoignage
 Pour pouvoir déterminer cela, il faut procéder par élimination pour ensuite pouvoir se concentrer sur les quelques candidatures qui vont réellement se faire concurrence et déterminer l’équilibre politique du prochain gouvernement. 
 
-Tout d’abord, il y a quatre candidats sortants, c’est-à-dire qu’ils sont actuellement au Conseil d’État et qu’ils décident de se représenter. Ce sont Thierry Apothéloz (PS), Nathalie Fontanet (PLR), Fabienne Fischer et Antonio Hodgers (Vert-e-s). Quatre candidats populaires provenant des trois principaux partis du canton. Ne souffrant pas d’affaires ou de scandales pouvant égratigner leur image, il me paraît aujourd’hui invraisemblable qu’ils ne soient pas réélus.
+Tout d’abord, il y a quatre candidats sortants, c’est-à-dire qu’ils sont actuellement au Conseil d’État et qu’ils décident de se représenter. Ce sont :
+  * Thierry Apothéloz (PS) ;
+  * Nathalie Fontanet (PLR) ;
+  * Fabienne Fischer et Antonio Hodgers (Vert-e-s).
 
-Ensuite, il faut écarter de cette analyse les candidatures de témoignage, c’est-à-dire ceux qui se sont portés candidats sans avoir la réelle ambition d’accéder au gouvernement. Ils se présentent pour avoir davantage la parole dans les médias par exemple et ainsi avancer des thèmes dans la campagne qui pourraient favoriser leur liste au Grand Conseil; la gauche radicale en est un bon exemple. Cela peut également être par ego et pour augmenter sa notoriété, à l’image de certains candidats hors partis. Nous n’allons donc pas nous attarder sur les candidatures de Messieurs Schneebeli (Élan radical), Pahud (Évolution suisse), Barthassat (Civis) et Oberson (Résistance populaire), ni sur celles de la gauche radicale qui part divisée et qui présente 5 candidats sur deux listes.
+Quatre candidats populaires provenant des trois principaux partis du canton. Ne souffrant pas d’affaires ou de scandales pouvant égratigner leur image, il me paraît aujourd’hui invraisemblable qu’ils ne soient pas réélus.
+
+Ensuite, il faut écarter de cette analyse les candidatures de témoignage, c’est-à-dire ceux qui se sont portés candidats sans avoir la réelle ambition d’accéder au gouvernement. Ils se présentent pour avoir davantage la parole dans les médias par exemple et ainsi avancer des thèmes dans la campagne qui pourraient favoriser leur liste au Grand Conseil; la gauche radicale en est un bon exemple. Cela peut également être par ego et pour augmenter sa notoriété, à l’image de certains candidats hors partis. Nous n’allons donc pas nous attarder sur les candidatures de :
+* Messieurs Schneebeli (Élan radical) ;
+* Pahud (Évolution suisse) ;
+* Barthassat (Civis) et Oberson (Résistance populaire) ;
+* Ni sur celles de la gauche radicale qui part divisée et qui présente 5 candidats sur deux listes.
 
 ## Les réels prétendants à la magistrature et leurs chances de succès
-Après avoir écarté les sortants et les candidatures sans aucune chance de succès, il nous reste donc 10 candidats pour 3 sièges. Dans le détail, il s’agit de Philippe Morel (MCG), Pierre Maudet (Libertés et justice sociale), Carole-Anne Kast (PS), Delphine Bachmann et Xavier Magnin (Le Centre), Anne Hiltpold (PLR), Marie-Claude Sawerschel et Marc Wuarin (Vert’libéraux) et Michael Andersen et Lionel Dugerdil (UDC). 
+Après avoir écarté les sortants et les candidatures sans aucune chance de succès, il nous reste donc 10 candidats pour 3 sièges. Dans le détail, il s’agit de :
+  * Philippe Morel (MCG) ;
+  * Pierre Maudet (Libertés et justice sociale) ;
+  * Carole-Anne Kast (PS) ;
+  * Delphine Bachmann et Xavier Magnin (Le Centre) ;
+  * Anne Hiltpold (PLR) ;
+  * Marie-Claude Sawerschel et Marc Wuarin (Vert’libéraux) ;
+  * Michael Andersen et Lionel Dugerdil (UDC).
 
 J’ai décidé de conserver les candidats UDC dans ce groupe parce que le parti a l’ambition de vouloir peser sur la politique du canton et car il est représenté au Grand Conseil, même si le score du parti reste faible à Genève (7,32% en 2018). Néanmoins, ces deux candidats UDC ne sont pas très connus et n’ont pas beaucoup d’expérience. Par conséquent, il paraît très improbable de les voir récolter beaucoup de votes au premier tour, en particulier au-delà de la base d’électeurs UDC. Nous allons nous attarder sur cette question plus tard, mais il n’est pas vraisemblable d’imaginer un candidat UDC se faire élire grâce à une large alliance de droite au second tour comme cela peut exister dans d’autres cantons. 
 
