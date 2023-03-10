@@ -19,10 +19,11 @@ Tout d’abord, il y a quatre candidats sortants, c’est-à-dire qu’ils sont 
 Quatre candidats populaires provenant des trois principaux partis du canton. Ne souffrant pas d’affaires ou de scandales pouvant égratigner leur image, il me paraît aujourd’hui invraisemblable qu’ils ne soient pas réélus.
 
 Ensuite, il faut écarter de cette analyse les candidatures de témoignage, c’est-à-dire ceux qui se sont portés candidats sans avoir la réelle ambition d’accéder au gouvernement. Ils se présentent pour avoir davantage la parole dans les médias par exemple et ainsi avancer des thèmes dans la campagne qui pourraient favoriser leur liste au Grand Conseil; la gauche radicale en est un bon exemple. Cela peut également être par ego et pour augmenter sa notoriété, à l’image de certains candidats hors partis. Nous n’allons donc pas nous attarder sur les candidatures de :
-* Messieurs Schneebeli (Élan radical) ;
-* Pahud (Évolution suisse) ;
-* Barthassat (Civis) et Oberson (Résistance populaire) ;
-* Ni sur celles de la gauche radicale qui part divisée et qui présente 5 candidats sur deux listes.
+* Roland-Daniel Schneebeli (Élan radical) ;
+* Olivier Pahud (Évolution suisse) ;
+* Luc Barthassat (Civis) ; 
+* Philippe Oberson (Résistance populaire) ;
+* la gauche radicale qui part divisée et qui présente 5 candidats sur deux listes.
 
 ## Les réels prétendants à la magistrature et leurs chances de succès
 Après avoir écarté les sortants et les candidatures sans aucune chance de succès, il nous reste donc 10 candidats pour 3 sièges. Dans le détail, il s’agit de :
