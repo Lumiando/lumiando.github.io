@@ -73,7 +73,7 @@ Mais la France ne peut pas se passer de l’Afrique. Elle est la pièce centrale
 
 Au niveau économique, la France voit ses parts de marché fondre, et donc son poids relatif, mais, en chiffres absolus, les bénéfices de ses entreprises exploser en Afrique. Ce double constat pousse Paris à ne défendre ses intérêts que plus farouchement. Les réseaux d’intérêt datant de la période coloniale sont encore forts, mais il faut les maintenir. Malgré la décolonisation officielle, les entreprises métropolitaines issues de l’ère coloniale ont conservé leur position dominante, voire monopolistique dans certains pays africains. C’est aujourd’hui de moins en moins le cas et cette décolonisation des marchés africains inquiète assurément Macron. 
 
-Finalement, au niveau énergétique, Paris est dépendante de l’Afrique, où Total notamment est très active. 12,6% des importations françaises de pétrole brut provenaient du continent africain en 2021, contre 5% du Moyen-Orient. L’uranium dont elle a besoin pour ses 58 centrales nucléaires est évidemment extrait en Afrique, un tiers en Centrafrique, deux tiers au Niger. 
+Finalement, au niveau énergétique, Paris est dépendante de l’Afrique, où Total notamment est très active. 12,6% des importations françaises de pétrole brut provenaient du continent africain en 2021, contre 5% du Moyen-Orient. L’uranium dont elle a besoin pour ses 58 centrales nucléaires est évidemment en partie extrait en Afrique, 35% de son uranium provient par exemple du Niger. 
 
 La France ne peut pas se passer de l’Afrique et la concurrence croissante sur le continent fait peur à ses élites. Je suis pourtant convaincu que cela ne suffit pas à expliquer entièrement les postures néocoloniales de Macron. 
 
