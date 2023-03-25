@@ -6,7 +6,7 @@ author: "Luis de Oliveira"
 description: "Quels sont les enjeux de cette élection pour chaque parti ? Quelles sont les ambitions et les chances de chacun ?"
 ---
 
-Le 2 avril 2023, les Genevois votent pour renouveler leurs représentants au Grand Conseil. Durant la législature 2018-2023, le Grand Conseil était composé de sept partis : 
+Le 2 avril 2023, les Genevois voteront pour renouveler leurs représentants au Grand Conseil. Durant la législature 2018-2023, le Grand Conseil était composé de sept partis : 
 * Les Libéraux-Radicaux (PLR) ;
 * Les Socialistes (PS) ;
 * Les Vert-e-s ;
