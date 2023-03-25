@@ -7,13 +7,13 @@ description: "Quels sont les enjeux de cette élection pour chaque parti ? Quel
 ---
 
 Le 2 avril 2023, les Genevois votent pour renouveler leurs représentants au Grand Conseil. Durant la législature 2018-2023, le Grand Conseil était composé de sept partis : 
-• Les Libéraux-Radicaux (PLR) ;
-• Les Socialistes (PS) ;
-• Les Vert-e-s ;
-• Le Centre ;
-• Le Mouvement Citoyen Genevois (MCG) ;
-• Ensemble à Gauche (EàG) ;
-• L’Union Démocratique du Centre (UDC). 
+* Les Libéraux-Radicaux (PLR) ;
+* Les Socialistes (PS) ;
+* Les Vert-e-s ;
+* Le Centre ;
+* Le Mouvement Citoyen Genevois (MCG) ;
+* Ensemble à Gauche (EàG) ;
+* L’Union Démocratique du Centre (UDC). 
 
 En 2023, 691 candidats se présentent sur douze listes pour espérer décrocher un des cent sièges du Parlement genevois. Les ambitions de chaque parti sont très différentes, certains espèrent augmenter leur poids au Parlement, d’autres rêvent d’y accéder alors que d’autres encore craignent d’être éjectés du Grand Conseil. Quels sont les enjeux pour chacun et comment sera composé le futur Grand Conseil ?
 
@@ -70,22 +70,22 @@ La stratégie de Pierre Maudet n’est de toute façon pas de créer un nouveau 
 En résumé, nous avons une gauche radicale qui ne devrait plus être représentée au Grand Conseil, un camp rose-vert fort et uni et une droite atomisée où chacun essaye d’avancer ses pions et où tous se tirent dans les pattes.
 
 Dans ce contexte, le centre-gauche devrait progresser en nombre de voix et en nombre de sièges, il reste néanmoins à voir dans quelles proportions et lequel des deux partis bénéficiera le plus de la situation. À droite, nous avons cinq partis qui ambitionnent et qui ont des chances d’être représentés au Grand Conseil : 
-• Le PLR ;
-• Le Centre ;
-• Le MCG ;
-• L’UDC ;
-• Les Vert’libéraux.
+* Le PLR ;
+* Le Centre ;
+* Le MCG ;
+* L’UDC ;
+* Les Vert’libéraux.
 
 Au vu du nombre de listes de droite, il sera difficile que ces cinq listes dépassent toutes le quorum fixé à 7%. Je pense que le PLR va perdre des plumes mais il est impensable de voir son score de 2018 divisé par quatre. Pour le Centre et l’UDC, cette multiplication de listes peut les affecter mais ils disposent d’une base solide et stable d’électeurs. Leur identité ne s’est pas détériorée ces dernières années et ils devraient donc être représentés lors de la prochaine législature. 
 
 Concernant le MCG et les Vert’libéraux, je les vois récolter entre 5 et 8% des voix et cela se jouera donc à peu de choses pour eux. Il est tout à fait envisageable que le MCG disparaisse du champ politique genevois, ce qui serait quand même un événement politique majeur. Ces élections sont absolument cruciales pour ces deux partis car le MCG joue sa survie politique et car les Vert’libéraux ont besoin d’être représentés au Parlement cantonal pour asseoir leur légitimité politique dans le canton et lancer leur campagne en vue des élections fédérales. À cause du quorum, la situation est simple pour ces deux formations : faire plus de 7% est un succès (même pour un MCG en baisse), faire moins de 7% est un échec (même pour des Vert’libéraux en progression). 
 
 Mon petit pronostic personnel, qui a de grandes chances d’être faux, serait :
-• un renforcement du PS et des Vert-e-s ;
-• une lourde chute du PLR (entre -5% et -10% par rapport à 2018) ;
-• une stabilisation du Centre ;
-• une légère progression de l’UDC ;
-• un score en légère baisse pour le MCG mais un maintien au-dessus des 7% ;
-• une progression des Vert’libéraux mais qui échouent à dépasser le quorum.
+* un renforcement du PS et des Vert-e-s ;
+* une lourde chute du PLR (entre -5% et -10% par rapport à 2018) ;
+* une stabilisation du Centre ;
+* une légère progression de l’UDC ;
+* un score en légère baisse pour le MCG mais un maintien au-dessus des 7% ;
+* une progression des Vert’libéraux mais qui échouent à dépasser le quorum.
 
 Ce pronostic est évidemment très subjectif et n’a pas pour but de tenter de prédire l’avenir mais de figer les conclusions de mon analyse pour les comparer aux résultats finaux du 2 avril. Cela me permettra d’observer les éléments que j’ai pu rater et de mieux comprendre comment les Genevois ont voté. Je serais ravi d’avoir vos pronostics à vous et vos remarques. N’hésitez pas à m’écrire par message privé ou à envoyer un mail à : redaction@affluents.ch.
