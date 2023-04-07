@@ -12,6 +12,18 @@ Au terme d’une élection qui a peu mobilisé, les Genevois ont surpris lors de
 
 Voici les résultats définitifs de l’élection du Grand Conseil pour les principales formations politiques :
 
+| Parti | Pourcentage de voix | Sièges | +/- |
+| ---- | ---- | ---- | ---- |
+| PLR | 19% (-6.2%) | 22 sièges | (-6) |
+| PS | 14.7% (-0.7%) | 18 sièges | (+1) |
+| Vert-e-s | 12.9% (-0.2%) | 15 sièges | (=) |
+| MCG | 11.7% (+2.3%) | 14 sièges | +3 |
+| UDC | 10.7% (+3.4%) | 12 sièges | (+4) |
+| Libertés et justice sociale (LJS) | 8.5% | 10 sièges | |
+| Le Centre | 7.9% (-2.8%) | 9 sièges | (-3) |
+| Vert'libéraux | 6.6% (+5%) | 0 sièges |  |
+| Gauche radicale | 3.6% et 3.1% (-1.1%) | 0 sièges | (-9) |
+
 * PLR : 19% (-6.2%) --- 22 sièges (-6)
 * PS : 14.7% (-0.7%) --- 18 sièges (+1)
 * Vert-e-s : 12.9% (-0.2%) --- 15 sièges (=)
@@ -47,6 +59,18 @@ Enfin, 36 femmes ont été élues au Grand Conseil, en légère hausse par rappo
 ## Analyse des résultats du premier tour de l’élection du Conseil d’État
 
 Venons-en maintenant au premier tour de l’élection du Conseil d’État. Voici les résultats des principaux candidats qui seront encore présents au second tour : 
+
+| Candidat(e) | Suffrages |
+| Nathalie Fontanet (PLR) | 49'218 suffrages |
+| Thierry Apothéloz (PS) | 38'232 suffrages |
+| Antonio Hodgers (Vert) | 35'490 suffrages |
+| Anne Hiltpold (PLR) | 35'147 suffrages |
+| Fabienne Fischer (Verte) | 31'403 suffrages | 
+| Pierre Maudet (LJS) | 31'315 suffrages |
+| Carole-Anne Kast (PS) | 31'289 suffrages |
+| Philippe Morel (MCG) | 29'575 suffrages | 
+| Delphine Bachmann (Le Centre) | 27'566 suffrages |
+| Lionel Dugerdil (UDC) | 23'263 suffrages |
 
 * Nathalie Fontanet (PLR) : 49'218 suffrages
 * Thierry Apothéloz (PS) : 38'232 suffrages
